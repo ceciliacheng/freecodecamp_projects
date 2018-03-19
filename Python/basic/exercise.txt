@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>Kindle88-Kindle精校电子书下载及推送第一站</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit">
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    		<script type="text/javascript">
+			var um = {"ajax_url":"http:\/\/www.kindle88.com\/wp-admin\/admin-ajax.php","admin_url":"http:\/\/www.kindle88.com\/wp-admin\/","wp_url":"http:\/\/www.kindle88.com","um_url":"http:\/\/www.kindle88.com\/wp-content\/plugins\/ucenter-and-market\/","uid":0,"is_admin":0,"redirecturl":"http:\/\/www.kindle88.com","loadingmessage":"\u6b63\u5728\u8bf7\u6c42\u4e2d\uff0c\u8bf7\u7a0d\u7b49...","paged":1,"cpage":1,"timthumb":"http:\/\/www.kindle88.com\/wp-content\/plugins\/ucenter-and-market\/func\/timthumb.php?src="};
+		</script>
+	
+<!-- All in One SEO Pack 2.3.2.3 by Michael Torbert of Semper Fi Web Design[50,84] -->
+<meta name="description" itemprop="description" content="Kindle88精校电子书为广大kindle爱好者及电子书爱好者提供各类mobi、pdf、epub、azw3等格式的电子书下载及推送,还包括海量漫画杂志期刊下载" />
+
+<meta name="keywords" itemprop="keywords" content="kindle88,精校电子书,kindle电子书下载,kindle 推送,kindle电子书推送,mobi推送,kindle,kindle电子书,txt下载,mobi下载,pdf下载,漫画下载,epub下载,azw下载" />
+<link rel='next' href='http://www.kindle88.com/?paged=2' />
+
+<link rel="canonical" href="http://www.kindle88.com/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//upcdn.b0.upaiyun.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kindle88 &raquo; Feed" href="http://www.kindle88.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Kindle88 &raquo; 评论Feed" href="http://www.kindle88.com/?feed=comments-rss2" />
+<link rel='stylesheet' id='um-css'  href='http://www.kindle88.com/wp-content/plugins/ucenter-and-market/static/um.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fa-css'  href='http://www.kindle88.com/wp-content/plugins/ucenter-and-market/static/font-awesome/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.kindle88.com/wp-content/themes/wpdx/font-awesome/css/font-awesome.min.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css'  href='http://www.kindle88.com/wp-content/themes/wpdx/style.css?ver=2.6' type='text/css' media='all' />
+<script type='text/javascript' src='//upcdn.b0.upaiyun.com/libs/jquery/jquery-1.8.3.min.js?ver=2.6'></script>
+<script type='text/javascript' src='http://www.kindle88.com/wp-content/themes/wpdx/js/base.js?ver=2.6'></script>
+<script type='text/javascript' src='http://www.kindle88.com/wp-content/themes/wpdx/js/BxSlider.min.js?ver=4.1'></script>
+<link rel='https://api.w.org/' href='http://www.kindle88.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.kindle88.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.kindle88.com/wp-includes/wlwmanifest.xml" /> 
+
+
+  <!--[if lt IE 9]>
+  <script src="http://www.kindle88.com/wp-content/themes/wpdx/js/html5.js"></script>
+  <script src="http://www.kindle88.com/wp-content/themes/wpdx/js/css3-mediaqueries.js"></script>
+  <![endif]-->
+  <!--[if IE 8]>
+  <link rel="stylesheet" href="http://www.kindle88.com/wp-content/themes/wpdx/css/ie8.css">
+  <![endif]-->
+  <style type="text/css" media="screen">#logo .logoimg{background:url("http://www.kindle88.com/wp-content/uploads/2016/03/logo999_副本.png") no-repeat scroll 0 0 transparent;}.style-vertical #logo .logoimg{background:url("http://www.kindle88.com/wp-content/uploads/2016/03/logo999_副本.png") no-repeat scroll 0 0 transparent;line-height:70px;}</style><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258505533'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1258505533' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?680cd1f6f066be480e1cfbf184243cd4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<meta name="360-site-verification" content="0e9831ced79b436d23929e4c12afc544" />
+<link rel="shortcut icon" href="http://www.kindle88.com/wp-content/themes/wpdx/favicon.ico" title="Favicon" /><!-- Content Protector plugin v. 2.11 CSS -->
+<style type="text/css">
+    div.content-protector-access-form {
+     padding: px;       border-style: ;         border-width: px;     border-radius: px;    }
+
+    input.content-protector-form-submit {
+        }
+
+    div.content-protector-correct-password {
+             font-weight: 400;}
+
+    div.content-protector-incorrect-password {
+             font-weight: 400;}
+
+    div.content-protector-ajaxLoading {
+             font-weight: 400;}
+
+    div.content-protector-form-instructions {
+             font-weight: 400;}
+</style>
+            </head>
+<body id="top" class="home blog unknown p-text-indent">
+    <div id="top-part">
+        <div id="top-bar" class="navbar navbar-inverse">
+    <div id="logo">
+        <hgroup itemscope itemtype="http://schema.org/WPHeader">
+                        <h1 class="logoimg"><a href="http://www.kindle88.com/" title="Kindle88" rel="home">Kindle88</a></h1>
+                    </hgroup>
+    </div>
+    <ul class="nav user-nav">
+                        
+                  <li class="user-btn user-re"><a class="popup-register" href="http://www.kindle88.com/wp-login.php" title="" rel="nofollow"><i class="fa fa-key fa-fw"></i><span class="text">登录</span></a></li>
+                
+                                <li class="user-btn user-re"><a class="popup-register" href="http://www.kindle88.com/wp-login.php?action=register" rel="nofollow"><i class="fa fa-key fa-fw"></i><span class="text">注册</span></a></li>
+                                    <li id="qqqun" class="other-nav"><a target="_blank" title="Kindle88读书交流群" href="http://shang.qq.com/wpa/qunwpa?idkey=c77d70d9f295867e78fc2651b5278fa04855fd5db33b846670475a8fc99c265e" rel="nofollow"><i class="fa fa-group fa-fw"></i> 加入Q群</a></li><li id="qq" class="other-nav"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=610300364&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:610300364:51" alt="联系站长" title="联系站长"/></a></li>        </ul>
+                <div id="search">
+            <div class="toggle-search">
+                <i class="fa fa-search fa-white fa-fw"></i>
+            </div>
+            <div class="search-expand">
+                <div class="search-expand-inner">
+                    <form method="get" class="searchform themeform" action="http://www.kindle88.com" >
+                        <div>
+                                                        <input type="text" class="search" name="s" onblur="if(this.value=='')this.value='输入内容并按回车键';" onfocus="if(this.value=='输入内容并按回车键')this.value='';" value="输入内容并按回车键" x-webkit-speech />
+                            <button type="submit" id="submit-bt" title="搜索"><i class="fa fa-search"></i></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+            </div>        <header id="header" role="banner">
+            <nav id="main-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"> <a href="#" class="visible-phone"><i class="fa fa-align-justify fa-fw"></i>导航菜单</a>
+                <ul>
+                    <li class="current-menu-item"><a href="http://www.kindle88.com/">首页</a></li>
+<li><a href="http://www.kindle88.com/?p=1385">成为本站永久会员</a></li>
+<li><a href="http://www.kindle88.com/?p=5070">一键推送设置教程</a></li>
+<li><a href="http://www.kindle88.com/?cat=23">本站使用帮助</a></li>
+<li class=" submenu"><a href="http://www.kindle88.com/?p=3931">书籍分类 <span class="caret"></span></a>
+<ul class="sub-menu">
+	<li><a href="http://www.kindle88.com/?tag=%e5%b0%8f%e8%af%b4">小说</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e5%8e%86%e5%8f%b2">历史</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e9%9a%8f%e7%ac%94">随笔</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e5%a4%96%e5%9b%bd%e6%96%87%e5%ad%a6">外国文学</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e4%b8%ad%e5%9b%bd%e6%96%87%e5%ad%a6">中国文学</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e6%8e%a8%e7%90%86">推理</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e4%bc%a0%e8%ae%b0">传记</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e5%bf%83%e7%90%86%e5%ad%a6">心理学</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e7%bb%8f%e6%b5%8e">经济</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e7%a7%91%e6%99%ae">科普</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e7%a7%91%e5%b9%bb">科幻</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e6%bc%ab%e7%94%bb">漫画</a></li>
+	<li><a href="http://www.kindle88.com/?tag=%e8%ae%a1%e7%ae%97%e6%9c%ba">计算机</a></li>
+	<li><a href="http://www.kindle88.com/?cat=7834">国外原版杂志报纸</a></li>
+	<li><a href="http://www.kindle88.com/?cat=9874">中文杂志</a></li>
+</ul>
+</li>
+<li><a href="http://www.kindle88.com/?cat=9874">中文杂志</a></li>
+<li class=" submenu"><a href="http://www.kindle88.com/?cat=7834">国外原版杂志报纸 <span class="caret"></span></a>
+<ul class="sub-menu">
+	<li><a href="http://www.kindle88.com/?cat=7935">经济学人</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8974">时代周刊</a></li>
+	<li><a href="http://www.kindle88.com/?cat=9877">哈佛商业评论</a></li>
+	<li><a href="http://www.kindle88.com/?cat=9882">科学美国人</a></li>
+	<li><a href="http://www.kindle88.com/?cat=9880">纽约客</a></li>
+	<li><a href="http://www.kindle88.com/?cat=12151">大西洋月刊</a></li>
+	<li><a href="http://www.kindle88.com/?cat=7862">纽约时报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=7894">华尔街日报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8940">金融时报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=7835">华盛顿邮报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8980">芝加哥论坛报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8972">独立报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8976">泰晤士报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8978">卫报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=8992">法国世界报</a></li>
+	<li><a href="http://www.kindle88.com/?cat=9064">上海日报</a></li>
+</ul>
+</li>
+<li><a href="http://www.kindle88.com/?cat=33">最新上传的书籍</a></li>
+<li><a href="http://www.kindle88.com/?cat=1064">中文书籍</a></li>
+<li><a href="http://www.kindle88.com/?cat=24">英文原版</a></li>
+<li><a href="http://www.kindle88.com/?cat=34">免费图书</a></li>
+<li><a href="http://www.kindle88.com/?cat=564">漫画</a></li>
+<li><a href="http://www.kindle88.com/?cat=829">合集下载</a></li>
+<li><a href="http://www.kindle88.com/?p=2171">求书区</a></li>
+<li><a href="http://www.kindle88.com/?p=13955">版权声明</a></li>
+                </ul><div class="clear"></div>
+            </nav>
+        </header>
+    </div>
+    <div id="main-content"><div id="content-header">
+  <div id="top-announce"><i class="fa fa-bullhorn fa-fw"></i>成为本站会员即可永久高速下载本站全站书籍,详情请见 <a href="http://www.kindle88.com/?p=1385" target="blank">:【点击成为本站会员】</a>         书籍一键推送到kindle的功能已上线，设置教程请见 <a href="http://www.kindle88.com/?p=1385" target="blank">【一键推送到Kindle教程】</a>
+</div>
+</div>
+<div class="container-fluid home-fluid">
+      <div class="row-fluid">
+    								<section class="span6 column2 first-column">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=1064">更多中文书籍..</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=1064" >最新中文书籍</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19085" title="链接到  剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/BF28826P180313094036.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19085" title="链接到  剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" rel="bookmark" >剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载</a></h3>
+											<p class="summary">
+												书籍信息： 作者：苏珊·伍德福德 等 Kindle电子书下载格式：azw3 Kindle电子书大小：40.43M 下载地址: (说明:epub和azw3格式的文 ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>12 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19085#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19083" title="链接到  卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/FT80R268180313093526.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19083" title="链接到  卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" rel="bookmark" >卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>13 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19083#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19082" title="链接到  本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/N6H2Z0H0180313093247.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19082" title="链接到  本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送" rel="bookmark" >本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>11 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19082#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19081" title="链接到  历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/00XB8480180313090010.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19081" title="链接到  历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" rel="bookmark" >历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>10 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19081#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19080" title="链接到  英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/62NV2ZVB180313085914.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19080" title="链接到  英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送" rel="bookmark" >英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>15 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19080#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19079" title="链接到  卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/LP8VH42P180313085854.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19079" title="链接到  卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送" rel="bookmark" >卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>5 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19079#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 ">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=24">更多..</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=24" >英文原版书籍</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19068" title="链接到  英文原版No One Left To Lie To-ChristopherHitchens[mobi]0.49M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/X620JRRP180313083255.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="英文原版No One Left To Lie To-ChristopherHitchens[mobi]0.49M Kindle电子书下载及推送" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19068" title="链接到  英文原版No One Left To Lie To-ChristopherHitchens[mobi]0.49M Kindle电子书下载及推送" rel="bookmark" >英文原版No One Left To Lie To-ChristopherHitchens[mobi]0.49M Kindle电子书下载及推送</a></h3>
+											<p class="summary">
+												Kindle电子书格式:mobi 作者:ChristopherHitchens 出版时间:2000-07 书籍简介: In this new paperback ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>8 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19068#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19067" title="链接到  英文原版The Extended Phenotype-RichardDawkins[pdf]1.50M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/R0H204DR180313083223.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英文原版The Extended Phenotype-RichardDawkins[pdf]1.50M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19067" title="链接到  英文原版The Extended Phenotype-RichardDawkins[pdf]1.50M Kindle电子书下载及推送" rel="bookmark" >英文原版The Extended Phenotype-RichardDawkins[pdf]1.50M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>6 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19067#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19066" title="链接到  英文原版The Pittsburgh Way to Efficient Healthcare-Grunden,Naida[pdf]1.88M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/82046D80180313083128.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英文原版The Pittsburgh Way to Efficient Healthcare-Grunden,Naida[pdf]1.88M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19066" title="链接到  英文原版The Pittsburgh Way to Efficient Healthcare-Grunden,Naida[pdf]1.88M Kindle电子书下载及推送" rel="bookmark" >英文原版The Pittsburgh Way to Efficient Healthcare-Grunden,Naida[pdf]1.88M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>9 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19066#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19063" title="链接到  英文原版CFA Program Curriculum 2018 Level III-CFAInstitute[pdf]27.04M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/P0V2T20D180313082546.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英文原版CFA Program Curriculum 2018 Level III-CFAInstitute[pdf]27.04M Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19063" title="链接到  英文原版CFA Program Curriculum 2018 Level III-CFAInstitute[pdf]27.04M Kindle电子书下载" rel="bookmark" >英文原版CFA Program Curriculum 2018 Level III-CFAInstitute[pdf]27.04M Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>7 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19063#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19062" title="链接到  英文原版CFA Program Curriculum 2018 Level II-CFAInstitute[azw3]14.67M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/ZH4J60FR180313082228.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英文原版CFA Program Curriculum 2018 Level II-CFAInstitute[azw3]14.67M Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19062" title="链接到  英文原版CFA Program Curriculum 2018 Level II-CFAInstitute[azw3]14.67M Kindle电子书下载" rel="bookmark" >英文原版CFA Program Curriculum 2018 Level II-CFAInstitute[azw3]14.67M Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>6 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19062#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19061" title="链接到  英文原版CFA Program Curriculum 2018 Level I-CFAInstitute[azw3]22.75M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/62ZDT4DT180313081959.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="英文原版CFA Program Curriculum 2018 Level I-CFAInstitute[azw3]22.75M Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19061" title="链接到  英文原版CFA Program Curriculum 2018 Level I-CFAInstitute[azw3]22.75M Kindle电子书下载" rel="bookmark" >英文原版CFA Program Curriculum 2018 Level I-CFAInstitute[azw3]22.75M Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>7 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19061#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 first-column">
+				<div class="widget-box">
+					<div class="widget-title">
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=7834" >国外原版杂志、报纸</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19057" title="链接到  哈佛商业评论Harvard-Business-Review_201804[mobi]3.21M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/哈佛商业评论_Harvard-Business-Review_201804.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="哈佛商业评论Harvard-Business-Review_201804[mobi]3.21M Kindle杂志下载及推送" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19057" title="链接到  哈佛商业评论Harvard-Business-Review_201804[mobi]3.21M Kindle杂志下载及推送" rel="bookmark" >哈佛商业评论Harvard-Business-Review_201804[mobi]3.21M Kindle杂志下载及推送</a></h3>
+											<p class="summary">
+												杂志信息： 杂志中文名：哈佛商业评论 杂志英文名：Harvard-Business-Review 本期期数：201804 Kindle电子杂志下载格式：mobi ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>14 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19057#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19056" title="链接到  时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180319.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19056" title="链接到  时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>20 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19056#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19055" title="链接到  科学美国人Scientific-American_201803[mobi]2.00M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/科学美国人_Scientific-American_201803.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="科学美国人Scientific-American_201803[mobi]2.00M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19055" title="链接到  科学美国人Scientific-American_201803[mobi]2.00M Kindle杂志下载及推送" rel="bookmark" >科学美国人Scientific-American_201803[mobi]2.00M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>16 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19055#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19054" title="链接到  经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20170310.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19054" title="链接到  经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>19 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19054#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19005" title="链接到  时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180312.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19005" title="链接到  时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月6日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>58 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19005#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18949" title="链接到  经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20180302.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18949" title="链接到  经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月2日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>146 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18949#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 ">
+				<div class="widget-box">
+					<div class="widget-title">
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=9874" >中文杂志</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19053" title="链接到  轻兵器201802-kindle88.com[mobi]0.27M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/VJ8PJD8P180312153429.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="轻兵器201802-kindle88.com[mobi]0.27M Kindle电子书下载及推送" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19053" title="链接到  轻兵器201802-kindle88.com[mobi]0.27M Kindle电子书下载及推送" rel="bookmark" >轻兵器201802-kindle88.com[mobi]0.27M Kindle电子书下载及推送</a></h3>
+											<p class="summary">
+												杂志信息： Kindle电子书下载格式：mobi Kindle电子书大小：0.27M 下载地址及一键推送:											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>15 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19053#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19052" title="链接到  读者201806-kindle88.com[mobi]7.02M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/4JVVP8TZ180312153354.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="读者201806-kindle88.com[mobi]7.02M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19052" title="链接到  读者201806-kindle88.com[mobi]7.02M Kindle电子书下载及推送" rel="bookmark" >读者201806-kindle88.com[mobi]7.02M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>9 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19052#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19051" title="链接到  证券市场周刊201807-kindle88.com[mobi]3.73M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/8RRFPZ2T180312153333.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="证券市场周刊201807-kindle88.com[mobi]3.73M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19051" title="链接到  证券市场周刊201807-kindle88.com[mobi]3.73M Kindle电子书下载及推送" rel="bookmark" >证券市场周刊201807-kindle88.com[mobi]3.73M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>11 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19051#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19050" title="链接到  故事会201805-kindle88.com[mobi]5.18M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/V6X8LBJX180312153306.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="故事会201805-kindle88.com[mobi]5.18M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19050" title="链接到  故事会201805-kindle88.com[mobi]5.18M Kindle电子书下载及推送" rel="bookmark" >故事会201805-kindle88.com[mobi]5.18M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>11 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19050#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19049" title="链接到  大众摄影201803-kindle88.com[mobi]10.92M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/4420PHXL180312153219.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="大众摄影201803-kindle88.com[mobi]10.92M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19049" title="链接到  大众摄影201803-kindle88.com[mobi]10.92M Kindle电子书下载及推送" rel="bookmark" >大众摄影201803-kindle88.com[mobi]10.92M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>10 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19049#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19048" title="链接到  人物201802-kindle88.com[mobi]4.26M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/66B8DD0R180312153155.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="人物201802-kindle88.com[mobi]4.26M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19048" title="链接到  人物201802-kindle88.com[mobi]4.26M Kindle电子书下载及推送" rel="bookmark" >人物201802-kindle88.com[mobi]4.26M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>6 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19048#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 first-column">
+				<div class="widget-box">
+					<div class="widget-title">
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=7935" >经济学人</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19054" title="链接到  经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20170310.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19054" title="链接到  经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20170310[mobi]14.78M Kindle杂志下载及推送</a></h3>
+											<p class="summary">
+												杂志信息： 杂志中文名：经济学人 杂志英文名：The-Economist 本期期数：20170310 Kindle电子杂志下载格式：mobi Kindle电子杂 ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>19 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19054#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18949" title="链接到  经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20180302.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18949" title="链接到  经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20180302[mobi]12.99M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月2日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>146 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18949#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18842" title="链接到  经济学人The-Economist_20180224[mobi]12.70M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20180224.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20180224[mobi]12.70M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18842" title="链接到  经济学人The-Economist_20180224[mobi]12.70M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20180224[mobi]12.70M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月25日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>88 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18842#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18841" title="链接到  经济学人The-Economist_20180217[mobi]12.51M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20180217.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20180217[mobi]12.51M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18841" title="链接到  经济学人The-Economist_20180217[mobi]12.51M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20180217[mobi]12.51M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月25日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>45 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18841#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18755" title="链接到  经济学人The-Economist_20170210[mobi]13.58M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20170210.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20170210[mobi]13.58M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18755" title="链接到  经济学人The-Economist_20170210[mobi]13.58M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20170210[mobi]13.58M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>95 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18755#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18674" title="链接到  经济学人The-Economist_20180203[mobi]12.15M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/经济学人_The-Economist_20180203.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="经济学人The-Economist_20180203[mobi]12.15M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18674" title="链接到  经济学人The-Economist_20180203[mobi]12.15M Kindle杂志下载及推送" rel="bookmark" >经济学人The-Economist_20180203[mobi]12.15M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月5日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>133 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18674#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 ">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=829">更多合集..</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=829" >合集下载</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19085" title="链接到  剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/BF28826P180313094036.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19085" title="链接到  剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" rel="bookmark" >剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载</a></h3>
+											<p class="summary">
+												书籍信息： 作者：苏珊·伍德福德 等 Kindle电子书下载格式：azw3 Kindle电子书大小：40.43M 下载地址: (说明:epub和azw3格式的文 ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>12 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19085#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19083" title="链接到  卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/FT80R268180313093526.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19083" title="链接到  卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" rel="bookmark" >卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>13 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19083#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19081" title="链接到  历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/00XB8480180313090010.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19081" title="链接到  历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" rel="bookmark" >历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>10 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19081#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19031" title="链接到  晋江大神Priest经典作品合集（套装10册）人气大神Priest经典包括山河表里、脱轨、默读、有匪全4册、大英雄时代！-Priest[mobi]8.24M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/PP42JLVD180309134909.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="晋江大神Priest经典作品合集（套装10册）人气大神Priest经典包括山河表里、脱轨、默读、有匪全4册、大英雄时代！-Priest[mobi]8.24M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19031" title="链接到  晋江大神Priest经典作品合集（套装10册）人气大神Priest经典包括山河表里、脱轨、默读、有匪全4册、大英雄时代！-Priest[mobi]8.24M Kindle电子书下载及推送" rel="bookmark" >晋江大神Priest经典作品合集（套装10册）人气大神Priest经典包括山河表里、脱轨、默读、有匪全4册、大英雄时代！-Priest[mobi]8.24M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月9日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>37 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19031#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19025" title="链接到  中国中产阶级必读书TOP20：自控力等20本大全集-凯利·麦格尼格尔等[azw3]40.84M Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/X8Z2N4L2180307120253.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="中国中产阶级必读书TOP20：自控力等20本大全集-凯利·麦格尼格尔等[azw3]40.84M Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19025" title="链接到  中国中产阶级必读书TOP20：自控力等20本大全集-凯利·麦格尼格尔等[azw3]40.84M Kindle电子书下载" rel="bookmark" >中国中产阶级必读书TOP20：自控力等20本大全集-凯利·麦格尼格尔等[azw3]40.84M Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月7日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>39 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19025#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19024" title="链接到  金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）-兰陵笑笑生[mobi]3.77M Kindle电子书下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/4L448FD8180307120047.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）-兰陵笑笑生[mobi]3.77M Kindle电子书下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19024" title="链接到  金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）-兰陵笑笑生[mobi]3.77M Kindle电子书下载及推送" rel="bookmark" >金瓶梅（崇祯本·完整版）（精心校对·排版简洁）（套装两册）-兰陵笑笑生[mobi]3.77M Kindle电子书下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月7日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>34 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19024#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 first-column">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=564">更多Kindle漫画..</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=564" >Kindle漫画</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=15962" title="链接到  xxxHolic全集共19卷-CLAMP[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/BH8X0844171209085213.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="xxxHolic全集共19卷-CLAMP[mobi]漫画百度云盘下载Kindle电子书下载" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=15962" title="链接到  xxxHolic全集共19卷-CLAMP[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >xxxHolic全集共19卷-CLAMP[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+											<p class="summary">
+												豆瓣评分:9.2 作者:CLAMP 翻译人:尤靜慧 出版时间:2011-6-22 漫画简介: 為了再見到侑子一面，四月一日成為店主。有一天，四月一日夢中出現蝴蝶 ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2017年12月9日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>206 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15962#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=15963" title="链接到  GS美神极乐大作战全集共39卷-椎名高志[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/Z28HHPFJ171209085339.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="GS美神极乐大作战全集共39卷-椎名高志[mobi]漫画百度云盘下载Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=15963" title="链接到  GS美神极乐大作战全集共39卷-椎名高志[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >GS美神极乐大作战全集共39卷-椎名高志[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2017年12月9日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>141 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15963#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=15964" title="链接到  K-On!轻音部全集共6卷-Kakifly[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/44PJJZNV171209085627.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="K-On!轻音部全集共6卷-Kakifly[mobi]漫画百度云盘下载Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=15964" title="链接到  K-On!轻音部全集共6卷-Kakifly[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >K-On!轻音部全集共6卷-Kakifly[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2017年12月9日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>147 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15964#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=15965" title="链接到  Skip Beat!全集共27卷-YoshikoNakamura[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/V404P68T171209085752.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="Skip Beat!全集共27卷-YoshikoNakamura[mobi]漫画百度云盘下载Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=15965" title="链接到  Skip Beat!全集共27卷-YoshikoNakamura[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >Skip Beat!全集共27卷-YoshikoNakamura[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2017年12月9日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>102 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15965#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=15966" title="链接到  B型H系全集共9卷-さんりようこ[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/X066VX0N171209085859.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="B型H系全集共9卷-さんりようこ[mobi]漫画百度云盘下载Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=15966" title="链接到  B型H系全集共9卷-さんりようこ[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >B型H系全集共9卷-さんりようこ[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2017年12月9日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>358 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15966#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=15911" title="链接到  白兔玩偶全集共10卷-宇仁田由美[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/comicpics/4TRV0D2N171208043453.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="白兔玩偶全集共10卷-宇仁田由美[mobi]漫画百度云盘下载Kindle电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=15911" title="链接到  白兔玩偶全集共10卷-宇仁田由美[mobi]漫画百度云盘下载Kindle电子书下载" rel="bookmark" >白兔玩偶全集共10卷-宇仁田由美[mobi]漫画百度云盘下载Kindle电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2017年12月8日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>143 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=15911#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 ">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=23">更多帮助</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=23" >本站使用帮助</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=5070" title="链接到  Kindle88推送电子书设置教程" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/Kindle/push1.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="Kindle88推送电子书设置教程" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=5070" title="链接到  Kindle88推送电子书设置教程" rel="bookmark" >Kindle88推送电子书设置教程</a></h3>
+											<p class="summary">
+												Kindle88电子书推送简介： 本站于2016.8.10增加了一键将电子书推送到Kindle的功能，会员通过一些简单的设置即可实现此功能。 会员每天能推书15 ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2016年8月11日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>3,992 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=5070#comments">22</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=3991" title="链接到  如何用手机直接阅读本站书籍?" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/Kindle/mobileread1.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="如何用手机直接阅读本站书籍?" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=3991" title="链接到  如何用手机直接阅读本站书籍?" rel="bookmark" >如何用手机直接阅读本站书籍?</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年7月13日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>661 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=3991#comments">1</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2038" title="链接到  Kindle如何推送EPUB格式的电子书?" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/images/pic/5-45x45.jpg" alt="Kindle如何推送EPUB格式的电子书?" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2038" title="链接到  Kindle如何推送EPUB格式的电子书?" rel="bookmark" >Kindle如何推送EPUB格式的电子书?</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年4月30日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>1,051 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2038#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=1385" title="链接到  通过邀请码成为Kindle88.com网站永久会员" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://www.kindle88.com/wp-content/uploads/2016/04/1514566898988.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="通过邀请码成为Kindle88.com网站永久会员" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=1385" title="链接到  通过邀请码成为Kindle88.com网站永久会员" rel="bookmark" >通过邀请码成为Kindle88.com网站永久会员</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年4月5日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>16,113 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=1385#comments">12</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=1190" title="链接到  本站必读" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://www.kindle88.com/wp-content/uploads/2016/03/help.png&w=45&h=45&zc=2&q=100&ct=1" alt="本站必读" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=1190" title="链接到  本站必读" rel="bookmark" >本站必读</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年3月28日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>924 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=1190#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=1093" title="链接到  epub怎么打开?epub阅读器、epub App推荐" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/images/pic/3-45x45.jpg" alt="epub怎么打开?epub阅读器、epub App推荐" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=1093" title="链接到  epub怎么打开?epub阅读器、epub App推荐" rel="bookmark" >epub怎么打开?epub阅读器、epub App推荐</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年3月21日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>693 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=1093#comments">1</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 first-column">
+				<div class="widget-box">
+					<div class="widget-title">
+													<span class="more"><a target="_blank" href="http://www.kindle88.com/?cat=34">更多..</a></span>
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=34" >免费图书</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=3056" title="链接到  【免费】half girlfriend-chetanbhagat[pdf,mobi,azw3,epub]15.2M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/XJHD2L22160610074557.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="【免费】half girlfriend-chetanbhagat[pdf,mobi,azw3,epub]15.2M电子书下载" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=3056" title="链接到  【免费】half girlfriend-chetanbhagat[pdf,mobi,azw3,epub]15.2M电子书下载" rel="bookmark" >【免费】half girlfriend-chetanbhagat[pdf,mobi,azw3,epub]15.2M电子书下载</a></h3>
+											<p class="summary">
+												豆瓣评分:8.0 Kindle电子书格式:pdf 作者:chetanbhagat 出版时间:2014 书籍简介: once upon a time, there ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2016年6月10日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>2,175 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=3056#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2795" title="链接到  【免费】大江东去（共三部）-阿耐[mobi]3.75M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/2JVZ4620160604100817.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="【免费】大江东去（共三部）-阿耐[mobi]3.75M电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2795" title="链接到  【免费】大江东去（共三部）-阿耐[mobi]3.75M电子书下载" rel="bookmark" >【免费】大江东去（共三部）-阿耐[mobi]3.75M电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年6月4日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>5,539 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2795#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2593" title="链接到  【免费】别相信任何人-英s.j.沃森[mobi]0.58M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/RVVVZ2BZ160531040632.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="【免费】别相信任何人-英s.j.沃森[mobi]0.58M电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2593" title="链接到  【免费】别相信任何人-英s.j.沃森[mobi]0.58M电子书下载" rel="bookmark" >【免费】别相信任何人-英s.j.沃森[mobi]0.58M电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年5月31日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>1,463 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2593#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2588" title="链接到  【免费】【6.1儿童节礼物】爱心树-谢尔・希尔弗斯坦[mobi]5.66M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/D26V8H66160531035955.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="【免费】【6.1儿童节礼物】爱心树-谢尔・希尔弗斯坦[mobi]5.66M电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2588" title="链接到  【免费】【6.1儿童节礼物】爱心树-谢尔・希尔弗斯坦[mobi]5.66M电子书下载" rel="bookmark" >【免费】【6.1儿童节礼物】爱心树-谢尔・希尔弗斯坦[mobi]5.66M电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年5月31日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>817 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2588#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2535" title="链接到  【免费】丑陋的韩国人-(日)金文学[mobi]0.40M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/R26T4X68160526091500.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="【免费】丑陋的韩国人-(日)金文学[mobi]0.40M电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2535" title="链接到  【免费】丑陋的韩国人-(日)金文学[mobi]0.40M电子书下载" rel="bookmark" >【免费】丑陋的韩国人-(日)金文学[mobi]0.40M电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年5月26日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>742 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2535#comments">1</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=2433" title="链接到  【免费】爱弥儿-法卢梭[mobi]1.59M电子书下载" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/rfpics/026280ZJ160520095655.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="【免费】爱弥儿-法卢梭[mobi]1.59M电子书下载" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=2433" title="链接到  【免费】爱弥儿-法卢梭[mobi]1.59M电子书下载" rel="bookmark" >【免费】爱弥儿-法卢梭[mobi]1.59M电子书下载</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2016年5月25日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>1,131 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=2433#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+												<section class="span6 column2 ">
+				<div class="widget-box">
+					<div class="widget-title">
+												<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+						<h2><a href="http://www.kindle88.com/?cat=8974" >时代周刊</a></h2>
+					</div>
+					<div class="widget-content">
+													<ul>
+																											<li class="first-posts">
+											<a class="post-thumbnail" href="http://www.kindle88.com/?p=19056" title="链接到  时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180319.jpg&w=330&h=200&zc=2&q=100&ct=1" alt="时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" width="330" height="200" />
+    </a>
+											<h3><a class="first-posts-title" href="http://www.kindle88.com/?p=19056" title="链接到  时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180319[mobi]2.24M Kindle杂志下载及推送</a></h3>
+											<p class="summary">
+												杂志信息： 杂志中文名：时代周刊 杂志英文名：Time 本期期数：20180319 Kindle电子杂志下载格式：mobi Kindle电子杂志大小：2.24M ...											</p>
+											<p class="post-meta">
+												<span><i class="fa fa-clock-o fa-fw"></i>2018年3月12日</span>
+																									<span><i class="fa fa-eye fa-fw"></i>20 views</span>
+																																					<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19056#respond">0</a></span>
+																							</p>
+										</li>
+										<div class="clear"></div>
+																																															<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=19005" title="链接到  时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180312.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=19005" title="链接到  时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180312[mobi]2.12M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年3月6日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>58 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=19005#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18840" title="链接到  时代周刊Time_20180226[mobi]4.38M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180226.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180226[mobi]4.38M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18840" title="链接到  时代周刊Time_20180226[mobi]4.38M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180226[mobi]4.38M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月25日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>42 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18840#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18756" title="链接到  时代周刊Time_20180219[mobi]2.41M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180219.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180219[mobi]2.41M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18756" title="链接到  时代周刊Time_20180219[mobi]2.41M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180219[mobi]2.41M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月12日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>74 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18756#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18675" title="链接到  时代周刊Time_20180212[mobi]1.87M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180212.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180212[mobi]1.87M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18675" title="链接到  时代周刊Time_20180212[mobi]1.87M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180212[mobi]1.87M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年2月5日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>58 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18675#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																																									<li class="other-posts">
+																									<a class="post-thumbnail" href="http://www.kindle88.com/?p=18601" title="链接到  时代周刊Time_20180205[mobi]3.50M Kindle杂志下载及推送" rel="bookmark" >        <img src="http://www.kindle88.com/wp-content/themes/wpdx/timthumb.php?src=http://kindle88.b0.upaiyun.com/magazinepics/时代周刊_Time_20180205.jpg&w=45&h=45&zc=2&q=100&ct=1" alt="时代周刊Time_20180205[mobi]3.50M Kindle杂志下载及推送" width="45" height="45" />
+    													</a>
+																								<h3><a href="http://www.kindle88.com/?p=18601" title="链接到  时代周刊Time_20180205[mobi]3.50M Kindle杂志下载及推送" rel="bookmark" >时代周刊Time_20180205[mobi]3.50M Kindle杂志下载及推送</a></h3>
+												<p class="post-meta">
+													<span><i class="fa fa-clock-o fa-fw"></i>2018年1月31日</span>
+																										<span><i class="fa fa-eye fa-fw"></i>69 views</span>
+																																							<span><i class="fa fa-comment-o fa-fw"></i><a href="http://www.kindle88.com/?p=18601#respond">0</a></span>
+																									</p>
+												<div class="clear"></div>
+											</li>
+																																		</ul>
+							<div class="clear"></div>
+											</div><!-- .cat-box-content /-->
+				</div>
+			</section> <!-- Two Columns -->
+					<section class="span4 home-recent">
+		<div class="widget-box">
+			<div class="widget-title">
+								<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+				<h2>最新文章</h2>
+			</div>
+			<div class="widget-content">
+				<ul class="news-list">
+
+					
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19085" title="剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载" rel="bookmark"><i class="fa fa-angle-right"></i>剑桥艺术史（艺术入门必读，人人都能看的艺术普及读物）（套装全8册）-苏珊·伍德福德 等[azw3]40.43M Kindle电子书下载</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19083" title="卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>卡夫卡全集（插图本）：全9卷-叶廷芳主编[mobi]17.99M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19082" title="本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>本体与常无-林毅夫[mobi]1.46M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19081" title="历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>历史中国书系（全九册）-罗杰[mobi]13.31M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19080" title="英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>英语学霸练成记——新东方名师的英语学习之路-《新东方英语》编辑部[mobi]0.41M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19079" title="卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>卓越CEO的尺度（《哈佛商业评论》2017年第11期）-哈佛商业评论[mobi]10.74M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19078" title="谁杀了她-日东野圭吾[mobi]0.52M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>谁杀了她-日东野圭吾[mobi]0.52M Kindle电子书下载及推送</a></li>
+						
+							<li><span>03-13</span><a href="http://www.kindle88.com/?p=19077" title="识骨女法医-美肯德拉·艾略特,KendraElliot[mobi]0.75M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>识骨女法医-美肯德拉·艾略特,KendraElliot[mobi]0.75M Kindle电子书下载及推送</a></li>
+											
+			</ul>
+		</div><!-- .widget-content /-->
+	</div>
+</section>
+	<section class="span4 home-recent">
+		<div class="widget-box">
+			<div class="widget-title">
+								<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+				<h2>90天内热门书籍</h2>
+			</div>
+			<div class="widget-content">
+				<ul class="news-list">
+
+					<li class="most-view"><span>465 ℃</span><a href="http://www.kindle88.com/?p=17313" ><i class="fa fa-angle-right"></i>基因传-美悉达多·穆克吉[mobi]1.58M Kindle电子书下载及推送</a></li><li class="most-view"><span>294 ℃</span><a href="http://www.kindle88.com/?p=16887" ><i class="fa fa-angle-right"></i>手把手教你读财报2-唐朝[mobi]6.05M Kindle电子书下载及推送</a></li><li class="most-view"><span>291 ℃</span><a href="http://www.kindle88.com/?p=16289" ><i class="fa fa-angle-right"></i>指数基金投资指南（雪球「岛」系列）-银行螺丝钉[mobi]1.24M Kindle电子书下载及推送</a></li><li class="most-view"><span>229 ℃</span><a href="http://www.kindle88.com/?p=16936" ><i class="fa fa-angle-right"></i>股票魔法师-【美】MarkMinervini(马克.米勒维尼)[mobi]9.89M Kindle电子书下载及推送</a></li><li class="most-view"><span>206 ℃</span><a href="http://www.kindle88.com/?p=16922" ><i class="fa fa-angle-right"></i>英文原版Little Fires Everywhere-CelesteNg[mobi]1.10M Kindle电子书下载及推送</a></li><li class="most-view"><span>202 ℃</span><a href="http://www.kindle88.com/?p=17608" ><i class="fa fa-angle-right"></i>墓碑&#8211;六十年代大饥荒纪实-杨继绳[mobi]1.98M Kindle电子书下载及推送</a></li><li class="most-view"><span>200 ℃</span><a href="http://www.kindle88.com/?p=17099" ><i class="fa fa-angle-right"></i>英文原版Call Me by Your Name-AndréAciman[mobi]0.92M Kindle电子书下载及推送</a></li><li class="most-view"><span>184 ℃</span><a href="http://www.kindle88.com/?p=17097" ><i class="fa fa-angle-right"></i>激荡十年，水大鱼大-吴晓波[mobi]15.85M Kindle电子书下载及推送</a></li>
+			</ul>
+		</div><!-- .widget-content /-->
+	</div>
+</section>
+	<section class="span4 home-recent">
+		<div class="widget-box">
+			<div class="widget-title">
+								<span class="icon"> <i class="fa fa-list fa-fw"></i> </span>
+				<h2>随便看看</h2>
+			</div>
+			<div class="widget-content">
+				<ul class="news-list">
+
+					
+						
+							<li><span>12-02</span><a href="http://www.kindle88.com/?p=15545" title="英文原版The Bedwetter: Stories of Courage, Redemption, and Pee-Sarah Silverman[mobi]1.80M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>英文原版The Bedwetter: Stories of Courage, Redemption, and Pee-Sarah Silverman[mobi]1.80M Kindle电子书下载及推送</a></li>
+						
+							<li><span>06-07</span><a href="http://www.kindle88.com/?p=2925" title="英文原版beside a burning sea-johnshors[mobi]1.03M电子书下载" rel="bookmark"><i class="fa fa-angle-right"></i>英文原版beside a burning sea-johnshors[mobi]1.03M电子书下载</a></li>
+						
+							<li><span>08-14</span><a href="http://www.kindle88.com/?p=5319" title="鬼谷子大全集-张平//廖鹏[azw3]2.88M Kindle电子书下载_一键推送" rel="bookmark"><i class="fa fa-angle-right"></i>鬼谷子大全集-张平//廖鹏[azw3]2.88M Kindle电子书下载_一键推送</a></li>
+						
+							<li><span>06-23</span><a href="http://www.kindle88.com/?p=3473" title="马云传-赵建[mobi]0.44M电子书下载" rel="bookmark"><i class="fa fa-angle-right"></i>马云传-赵建[mobi]0.44M电子书下载</a></li>
+						
+							<li><span>01-29</span><a href="http://www.kindle88.com/?p=10329" title="债券投资策略（原书第2版）-［美］　安东尼·克里森兹(AnthonyCrescenzi)[mobi]8.45M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>债券投资策略（原书第2版）-［美］　安东尼·克里森兹(AnthonyCrescenzi)[mobi]8.45M Kindle电子书下载及推送</a></li>
+						
+							<li><span>08-07</span><a href="http://www.kindle88.com/?p=4984" title="闪开，让我拥抱幸福-马修·奎克[mobi]0.58M电子书下载" rel="bookmark"><i class="fa fa-angle-right"></i>闪开，让我拥抱幸福-马修·奎克[mobi]0.58M电子书下载</a></li>
+						
+							<li><span>12-08</span><a href="http://www.kindle88.com/?p=8581" title="红楼梦杀人事件-江晓雯[mobi]0.73M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>红楼梦杀人事件-江晓雯[mobi]0.73M Kindle电子书下载及推送</a></li>
+						
+							<li><span>02-27</span><a href="http://www.kindle88.com/?p=18875" title="英文原版The Best and the Brightest (Modern Library)-John McCain[mobi]1.26M Kindle电子书下载及推送" rel="bookmark"><i class="fa fa-angle-right"></i>英文原版The Best and the Brightest (Modern Library)-John McCain[mobi]1.26M Kindle电子书下载及推送</a></li>
+											
+			</ul>
+		</div><!-- .widget-content /-->
+	</div>
+</section>
+</div>
+  <div class="span12 home-links">
+    <div class="widget-box">
+      <div class="widget-title"><span class="icon"><i class="fa fa-link fa-fw"></i></span><h3>友情链接</h3></div>
+      <div class="widget-content">
+       <ul>
+         <li><a href="http://www.21cncn.com">青年说</a></li>
+       </ul>
+       <div class="clear"></div>
+     </div>
+   </div>
+ </div>
+</div>
+</div>
+<footer id="footer" class="row-fluid" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+ <div class="span12 footer-nav">
+   <ul>
+     <li class="the_tips">请访问 “外观 > 菜单”设置菜单</li>   </ul>
+ </div>
+ <div class="span12 footer-info"><p>Copyright © 2016-2017 All Rights Reserved </p></div>
+ </footer>
+			<script type="text/javascript">
+				SetCookie( 'dx_current_page', window.location.href );
+				function SetCookie(name,value)
+				{  
+					var Days = 1;
+					var exp  = new Date();
+					exp.setTime(exp.getTime() + Days*24*60*60*1000);  
+					document.cookie = name + "="+ escape (value) + ";path=/"; 
+				} 
+			</script>
+	
+    <script>
+      window._bd_share_config={
+        "common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"
+      },"share":{}
+    }; with(document)0[(getElementsByTagName("head")[0]||body).appendChild(createElement("script")).src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion="+~(-new Date()/36e5)];
+  </script><link rel='stylesheet' id='content-protector_css-css'  href='http://www.kindle88.com/wp-content/plugins/content-protector/css/content-protector.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.kindle88.com/wp-content/plugins/ucenter-and-market/static/um.js'></script>
+<script type='text/javascript' src='http://www.kindle88.com/wp-includes/js/wp-embed.min.js'></script>
+<div class="returnTop" title="返回顶部">
+  <span class="s"></span>
+  <span class="b"></span>
+  返回顶部"
+</div>
+</body>
+</html>
