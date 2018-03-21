@@ -11,6 +11,8 @@
   3，攻击性球员和防守型球员，谁的收入更高呢？
 
   [数据来源及说明](http://www.seanlahman.com/baseball-archive/statistics/)
+  [攻击性球员计算公式](http://peavy.pixnet.net/blog/post/43344937-%E3%80%90xavier%E6%A3%92%E7%90%83%E6%95%99%E5%AE%A4%E3%80%91%E6%89%93%E8%80%85%E9%80%B2%E9%9A%8E%E6%95%B8%E6%93%9A%E7%AF%87%28%E4%B8%80%29%EF%BC%9A-woba)
+  [防守型球员计算公式](http://peavy.pixnet.net/blog/post/43034428-%E3%80%90xavier%E6%A3%92%E7%90%83%E6%95%99%E5%AE%A4%E3%80%91%E6%8A%95%E6%89%8B%E9%80%B2%E9%9A%8E%E6%95%B8%E6%93%9A%E7%AF%87%28%E4%B8%80%29%EF%BC%9A-fip%E3%80%81)公式里的K是Batting.csv和Pitching.csv里的SO
 
 ### 第二步 ###
 把第一步里的分析结果，用图表直观地展示。
